@@ -16,14 +16,21 @@ We developed a DRL agent using the DQN architecture to learn optimal actions bas
 # Results
 The agent demonstrated significant improvement over time, successfully landing the spacecraft in several episodes. Visualizations and recorded videos showcase the agent's progress and learning.
 
+![image](https://github.com/mehrnaz-m/LunarLander/assets/155564679/a5f00b21-06bb-46ae-9806-ddf7c29affdc)
+
+
 # Future Work
 Potential areas for future improvement include exploring more sophisticated algorithms such as Double DQN or Dueling DQN for enhanced performance and stability.
 
 # Team Members
 Chaiyatorn Permpornsakul - pscpermp@liverpool.ac.uk 
+
 Chinwa Chimdi-Ezekwe - sgcchimd@liverpool.ac.uk 
+
 Mehrnaz Miri - sgmmiri@liverpool.ac.uk 
+
 Neda Yavari - sgnyavar@liverpool.ac.uk 
+
 Yukabed Ijadi - f.ijadi@liverpool.ac.uk 
 
 # References
